@@ -1,2 +1,2 @@
 # yolov5-deployment
-你猜猜四点模型在哪
+使用openvino22.3.0部署
